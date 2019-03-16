@@ -1,0 +1,21 @@
+
+blackarmy_knife_move0 1 1 215 169 68 93
+blackarmy_knife_move1 218 1 215 169 68 93
+blackarmy_knife_move2 435 1 217 168 68 93
+blackarmy_knife_move3 654 1 220 168 68 93
+blackarmy_knife_move4 1 172 222 167 68 93
+blackarmy_knife_move5 225 172 224 169 68 93
+blackarmy_knife_move6 451 172 227 170 68 93
+blackarmy_knife_move7 680 172 229 172 68 93
+blackarmy_knife_move8 1 346 230 172 68 93
+blackarmy_knife_move9 233 346 232 174 68 93
+blackarmy_knife_move10 467 346 232 174 68 93
+blackarmy_knife_move11 701 346 232 174 68 93
+blackarmy_knife_move12 1 522 230 172 68 93
+blackarmy_knife_move13 233 522 229 172 68 93
+blackarmy_knife_move14 464 522 227 170 68 93
+blackarmy_knife_move15 693 522 225 169 68 93
+blackarmy_knife_move16 1 696 222 167 68 93
+blackarmy_knife_move17 225 696 221 168 68 93
+blackarmy_knife_move18 448 696 218 168 68 93
+blackarmy_knife_move19 668 696 216 169 68 93

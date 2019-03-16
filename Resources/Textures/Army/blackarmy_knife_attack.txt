@@ -1,0 +1,16 @@
+
+blackarmy_knife_attack0 1 1 231 169 68 90
+blackarmy_knife_attack1 234 1 221 170 68 92
+blackarmy_knife_attack2 457 1 191 169 68 92
+blackarmy_knife_attack3 650 1 184 175 68 92
+blackarmy_knife_attack4 836 1 174 182 68 92
+blackarmy_knife_attack5 1 185 171 177 68 92
+blackarmy_knife_attack6 174 185 207 176 68 92
+blackarmy_knife_attack7 383 185 262 169 68 92
+blackarmy_knife_attack8 647 185 240 229 68 92
+blackarmy_knife_attack9 1 416 214 266 68 92
+blackarmy_knife_attack10 217 416 221 254 68 92
+blackarmy_knife_attack11 440 416 231 225 68 92
+blackarmy_knife_attack12 673 416 242 188 68 92
+blackarmy_knife_attack13 1 684 246 178 68 92
+blackarmy_knife_attack14 249 684 238 170 68 92

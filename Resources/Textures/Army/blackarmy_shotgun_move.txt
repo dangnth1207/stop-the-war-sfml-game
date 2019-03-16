@@ -1,0 +1,21 @@
+
+blackarmy_shotgun_move0 1 1 259 153 58 82
+blackarmy_shotgun_move1 262 1 259 153 58 82
+blackarmy_shotgun_move2 523 1 258 153 58 82
+blackarmy_shotgun_move3 783 1 258 153 58 82
+blackarmy_shotgun_move4 1043 1 258 153 58 82
+blackarmy_shotgun_move5 1303 1 258 153 58 82
+blackarmy_shotgun_move6 1 156 257 154 58 82
+blackarmy_shotgun_move7 260 156 257 154 58 82
+blackarmy_shotgun_move8 519 156 256 154 58 82
+blackarmy_shotgun_move9 777 156 257 154 58 82
+blackarmy_shotgun_move10 1036 156 256 155 58 82
+blackarmy_shotgun_move11 1294 156 257 154 58 82
+blackarmy_shotgun_move12 1553 156 256 154 58 82
+blackarmy_shotgun_move13 1 313 257 154 58 82
+blackarmy_shotgun_move14 260 313 257 154 58 82
+blackarmy_shotgun_move15 519 313 258 153 58 82
+blackarmy_shotgun_move16 779 313 258 153 58 82
+blackarmy_shotgun_move17 1039 313 258 153 58 82
+blackarmy_shotgun_move18 1299 313 258 153 58 82
+blackarmy_shotgun_move19 1559 313 259 153 58 82

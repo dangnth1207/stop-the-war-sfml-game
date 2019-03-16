@@ -1,0 +1,21 @@
+
+blackarmy_knife_run_feet0 1 1 176 100 88 50
+blackarmy_knife_run_feet1 179 1 167 100 83 50
+blackarmy_knife_run_feet2 348 1 149 100 74 50
+blackarmy_knife_run_feet3 499 1 126 100 63 50
+blackarmy_knife_run_feet4 627 1 105 100 52 50
+blackarmy_knife_run_feet5 734 1 84 100 42 50
+blackarmy_knife_run_feet6 820 1 104 100 52 50
+blackarmy_knife_run_feet7 1 103 126 100 63 50
+blackarmy_knife_run_feet8 129 103 149 100 74 50
+blackarmy_knife_run_feet9 280 103 168 100 84 50
+blackarmy_knife_run_feet10 450 103 176 100 88 50
+blackarmy_knife_run_feet11 628 103 168 100 84 50
+blackarmy_knife_run_feet12 798 103 149 100 74 50
+blackarmy_knife_run_feet13 1 205 126 100 63 50
+blackarmy_knife_run_feet14 129 205 104 100 52 50
+blackarmy_knife_run_feet15 235 205 84 100 42 50
+blackarmy_knife_run_feet16 321 205 105 100 52 50
+blackarmy_knife_run_feet17 428 205 126 100 63 50
+blackarmy_knife_run_feet18 556 205 149 100 75 50
+blackarmy_knife_run_feet19 707 205 167 100 88 50

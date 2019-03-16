@@ -1,0 +1,4 @@
+
+blackarmy_shotgun_shoot0 1 1 259 153 58 83
+blackarmy_shotgun_shoot1 262 1 253 153 58 83
+blackarmy_shotgun_shoot2 517 1 255 153 58 83
